@@ -1,12 +1,12 @@
 ```text
 > meliodic7@github:~$ whoami
-adil — exploring AI, Web3 & creative automation.
+adil — exploring AI, digital creation & automation.
 ```
 
 ### Focus
 - Building mini AI utilities & terminal scripts
-- Exploring Web3 ecosystems & bounties
-- AI-assisted workflows & content systems
+- AI assisted digital marketing & content systems
+- Turning ideas into working tools
 
 ### Stack
 `Python` · `Bash` · `Termux` · `Gemini API` · `Git`
