@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**meliodic7/Meliodic7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adil**, exploring AI, Web3 ecosystems, and creative automation — learning by building. 🛠️⚡
 
-Here are some ideas to get you started:
+#### 🚀 What I'm Currently Doing
+- 🤖 Building mini AI tools & terminal utilities
+- 🌐 Exploring Web3 ecosystems, bounties & community building
+- 🎨 Creating AI-assisted digital content & workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tools & Environment
+`Python` • `Bash / Termux` • `Gemini API` • `Git & GitHub` • `AI Tools`
+
+#### 📌 Connect With Me
+- 𝕏 **X (Twitter):** [@adilashrafiam](https://x.com/adilashrafiam)
+- 💼 **LinkedIn:** [linkedin.com/in/adilashrafiam](https://www.linkedin.com/in/adilashrafiam)
+- 🐙 **GitHub:** [github.com/meliodic7](https://github.com/meliodic7)
+
+---
+*“Discovering AI, digital marketing & content creation — learning by doing.”*
